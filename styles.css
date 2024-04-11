@@ -1,0 +1,32 @@
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Indie Flower", cursive;
+}
+
+h1 {
+  text-shadow: 3px 3px 6px crimson;
+}
+
+img {
+  width: 300px;
+  border-radius: 50%;
+}
+
+p {
+  font-size: 1.2rem;
+  background-color: antiquewhite;
+  border: 1px solid rgb(182, 170, 154);
+  border-radius: 20px;
+  padding: 10px;
+}
+
+img,
+p {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}

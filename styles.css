@@ -5,12 +5,14 @@ body {
   justify-content: center;
   align-items: center;
   font-family: "Indie Flower", cursive;
-  background-color: black;
+  background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjU0NmJhdGNoMy1teW50LTM0LWJhZGdld2F0ZXJjb2xvcl8xLmpwZw.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1 {
-  text-shadow: 3px 3px 6px crimson;
-  color: white;
+  text-shadow: 0 0 10px crimson;
+  color: rebeccapurple;
 }
 
 img {

@@ -5,10 +5,12 @@ body {
   justify-content: center;
   align-items: center;
   font-family: "Indie Flower", cursive;
+  background-color: black;
 }
 
 h1 {
   text-shadow: 3px 3px 6px crimson;
+  color: white;
 }
 
 img {
